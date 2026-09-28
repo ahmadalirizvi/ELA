@@ -1,4 +1,4 @@
-# Ela
+# Ela -- My personal assistant is in making!
 
 **A private, local-first voice assistant for macOS, with an Android companion app.**
 
